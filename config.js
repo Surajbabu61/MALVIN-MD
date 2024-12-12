@@ -10,7 +10,7 @@ SESSION_ID: process.env.SESSION_ID || "zJwQhKbD#1Z6muaYdmPhpkQOX-Lc884BNELjT8U1K
 MODE: process.env.MODE || "public",  // Add Your Bot Mode (groups/privet/public)
 PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
 OWNER_REACT: process.env.OWNER_REACT || "true", //add true or false
-BOT_NAME: process.env.BOT_NAME || "𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 v2",
+BOT_NAME: process.env.BOT_NAME || "ᵃˡᵒⁿᵉ 💔😰👈🏿",
 ///=================When editing, do not accidentally delete anything !!CUSTOM-SETTING-CONFIG=====================
 AUTO_VOICE: process.env.AUTO_VOICE || "true", //add true or false
 AUTO_STICKER: process.env.AUTO_STICKER || "true", //add true or false
@@ -27,5 +27,5 @@ PASTEBIN_API_KEY: process.env.PASTEBIN_API_KEY || "uh8QvO6vQJGtIug9WvjdTAPx_ZAFJ
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 ///=================When editing, do not accidentally delete anything !!ALIVE-CONFIG================================
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/gdvaaw.jpg", //add alive img url
-ALIVE_MSG: process.env.ALIVE_MSG || "HI AME A WHATSAPP BOT CREATED BY MALVIN", //add alive msg
+ALIVE_MSG: process.env.ALIVE_MSG || "HI AME A WHATSAPP BOT CREATED BY ᵃˡᵒⁿᵉ 💔😰👈🏿", //add alive msg
 };
